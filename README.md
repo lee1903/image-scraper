@@ -12,10 +12,10 @@ Will need to install node modules
 - nightmare
 - request
 
-Creates a hyponym tree based on the keyword entered, then scrapes images from google based on each node in the hyponym tree.
+Generates a hyponym tree based on the keyword entered, then scrapes images from google based on each node in the hyponym tree.
 
 Simple usage
 
 ```
-python wordnet.py keyword
+python wordnet.py yourkeyword
 ```
